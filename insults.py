@@ -59,6 +59,9 @@ print """
 <p>
 <a href="http://technicalviking.com/cgi-bin/insults.py?"><i class="material-icons">autorenew</i> Again <i class="material-icons">autorenew</i></a>
 </p>
+<p>
+<a href="http://github.com/stevenfarabaugh/shakespeare_insults"><i class="material-icons">code</i>Code on github<i class="material-icons">code</i></a>
+</p>
 """
 print """
 </body>
