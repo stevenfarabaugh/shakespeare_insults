@@ -27,10 +27,10 @@ a {
 	font-size: 6vw;
 }
 .second {
-	font-size: 8vw;
+	font-size: 7vw;
 }
 .third {
-	font-size: 10vw;
+	font-size: 8vw;
 }
 .header {
 	font-weight: bold;
