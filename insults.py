@@ -26,13 +26,13 @@ a {
 	width: 100%;
 }
 .first {
-	font-size: 6vw;
+	font-size: 4vw;
 }
 .second {
-	font-size: 7vw;
+	font-size: 5vw;
 }
 .third {
-	font-size: 8vw;
+	font-size: 6vw;
 }
 .header {
 	font-weight: bold;
