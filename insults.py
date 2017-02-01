@@ -13,9 +13,11 @@ list3 = ["apple-john","baggage","barnacle","bladder","boar-pig","bugbear","bum-b
 print "Content-Type: text/html"
 print """
 <html>
+<link href="https://fonts.googleapis.com/css?family=Bad+Script" rel="stylesheet">
 <style>
 p {
 	text-align: center;
+	font-family: 'Bad Script', cursive;
 }
 a {
 	text-align: center;
