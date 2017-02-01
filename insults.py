@@ -43,6 +43,9 @@ a {
 <p class="first header">Shakespearian Insult Generator</p>
 """
 print """
+<table style="float:center"><tr>
+<td style="width:30vw"></td>
+<td>
 <p class="first">
 """
 print(list1[random.randint(0,49)])
@@ -64,6 +67,12 @@ print """
 <p>
 <a href="http://github.com/stevenfarabaugh/shakespeare_insults"><i class="material-icons">code</i>Code on github<i class="material-icons">code</i></a>
 </p>
+</td>
+<td style="vertical-align:top;">
+<img src="http://technicalviking.com/herald.png" style="height:60vh;">
+</td>
+</tr>
+</table>
 """
 print """
 </body>
